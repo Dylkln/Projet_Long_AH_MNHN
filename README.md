@@ -10,7 +10,7 @@ Il est impératif d'avoir [RAxML](https://cme.h-its.org/exelixis/web/software/ra
 conda install -c bioconda raxml
 ```
 
-## Quick start
+## Télécharger le programme
 
 1. Clone du répertoire github
 
