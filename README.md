@@ -12,7 +12,7 @@ conda install -c bioconda raxml
 
 ## Télécharger le programme
 
-1. Clone du répertoire github
+1. Clonage du répertoire github
 
 > Lien HTTPS
 
