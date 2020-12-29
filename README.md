@@ -40,6 +40,8 @@ conda activate phylo
 
 ## Utilisation du programme
 
+Pour utiliser le programme, vous devez être dans le répertoire "program" et lancer la commande suivante :
+
 ```
 python phylo.py -f <FASTA_FILE> -n <NREP> -ws <WINDOW_SIZE> -s <STEP> -t <THREADS>
 ```
