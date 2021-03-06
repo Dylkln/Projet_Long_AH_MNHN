@@ -1,6 +1,6 @@
 # Programme de détection des recombinaisons
 
-Ce programme a pour but de donner les frÃ©quences de bipartitions calculÃ©es par maximum de vraisemblance à partir d'un alignement de séquence.
+Ce programme a pour but de donner les fréquences de bipartitions calculées par maximum de vraisemblance à partir d'un alignement de séquence.
 
 ## Prérequis
 
